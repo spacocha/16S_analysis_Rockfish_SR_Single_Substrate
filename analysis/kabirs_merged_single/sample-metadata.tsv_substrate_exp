@@ -1,0 +1,64 @@
+sample-id	Step1Conc	WellNo	i7Primer	i5Primer	OriginalName	TechRepNo	FirstNo	Experiment	Project	SampleType	ControlType	Inhibitor	Substrate	SedimentLocation	Condition	Timepoint	Date	SourceType	Split	TubeNo	SeqId	PercentContam
+A1	0.688	A1	H701	H505	TMI2T3B	125	8	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 2	T3	4/17/23	filter	NA	NA	BoxA	0.018478738
+A13	0.432	A9	H720	H517	TMI2T1L	119	13	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T1	NA	DNA filter	NA	NA	BoxA	0.133095603
+A14	60	A10	H710	H505	TMI3T1M	132	9	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T1	NA	DNA filter	NA	NA	BoxA	0
+A16	too high	A12	H714	H517	TMI3T2M	135	19	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T2	NA	DNA filter	NA	NA	BoxA	0.015790839
+A17	39.7	B1	H702	H517	TMI3T4M	140	15	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T4	4/17/23	filter	NA	NA	BoxA	0.027961906
+A18	0.053	B2	H703	H505	TMI2T3A	124	19	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T3	4/17/23	filter	NA	NA	BoxA	13.06818182
+A19	too high	B3	H701	H506	TMI2T2L	122	23	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T2	NA	DNA filter	NA	NA	BoxA	0.039365033
+A21	0.157	B5	H723	H505	TMI1T3A	111	18	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T3	4/17/23	filter	NA	NA	BoxA	0.188473366
+A22	0.06	B6	H705	H506	TMI3T3P	137	3	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 3	T3	4/17/23	filter	NA	NA	BoxA	25.71428571
+A27	5.57	B11	H714	H505	TMI3T4L	139	11	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 3	T4	4/17/23	filter	NA	NA	BoxA	0
+A31	too high	C2	H701	H517	TMI1T1M	107	7	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T1	NA	DNA filter	NA	NA	BoxA	0.016542141
+A32	12	C3	H702	H505	TMI1T4M	114	16	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T4	4/17/23	filter	NA	NA	BoxA	0
+A33	0.135	C4	H723	H506	TMI3T0M	129	35	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T0	8/10/21	filter	NA	NA	BoxA	18.73182083
+A34	0.148	C5	H705	H517	TMI2T0L	117	32	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	0.780964002
+A36	0.363	C7	H720	H506	TMI3T3B	136	12	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 3	T3	4/17/23	filter	NA	NA	BoxA	0.289813368
+A38	too high	C9	H712	H505	TMI1T1L	106	12	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 1	T1	NA	DNA filter	NA	NA	BoxA	0
+A39	0.12	C10	H714	H506	TMI1T0M	104	37	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	0.632555524
+A41	17.4	C12	H711	H505	TMI1T2L	109	22	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 1	T2	NA	DNA filter	NA	NA	BoxA	0
+A45	0.057	D4	H706	H503	TMI2T2A	121	28	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T2	NA	DNA filter	NA	NA	BoxA	17.27272727
+A5	15.4	A4	H705	H505	TMI2T4L	127	17	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T4	4/17/23	filter	NA	NA	BoxA	0.001663451
+A51	0.22	D10	H701	H503	TMI1T2A	108	27	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T2	NA	DNA filter	NA	NA	BoxA	0.168023782
+A52	0.098	D11	H702	H503	TMI2T0B	116	31	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	2.861771058
+A56	too high	E3	H720	H516	TMI3T2L	134	24	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 3	T2	NA	DNA filter	NA	NA	BoxA	0.009987516
+A57	0.106	E4	H710	H516	TMI3T2A	133	29	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 3	T2	NA	DNA filter	NA	NA	BoxA	0.603864734
+A6	0.06	A5	H707	H506	TMI3T0A	128	36	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 3	T0	8/10/21	filter	NA	NA	BoxA	13.13131313
+A63	5.35	E9	H703	H516	TMI1T4A	113	30	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T4	NA	DNA filter	NA	NA	BoxA	0.003140753
+A65	too high	E11	H707	H516	TMI1T2M	110	17	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T2	NA	DNA filter	NA	NA	BoxA	0.030377183
+A68	60	F2	H711	H510	TMI2T2M	123	18	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 2	T2	NA	DNA filter	NA	NA	BoxA	0
+A7	0.055	A6	H723	H517	TMI1T3P	112	13	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 1	T3	4/17/23	filter	NA	NA	BoxA	1.73992674
+A70	too high	F4	H701	H522	TMI3T1L	131	14	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 3	T1	NA	DNA filter	NA	NA	BoxA	0
+A71	0.109	F5	H702	H510	TMI2T0M	118	38	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	0.253281142
+A76	52	F10	H706	H522	TMI2T1M	120	8	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 2	T1	NA	DNA filter	NA	NA	BoxA	0
+A77	0.062	F11	H712	H510	TMI2T0A	115	26	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	0
+A79	0.1	G1	H711	H513	TMI3T0P	130	24	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 3	T0	8/10/21	filter	NA	NA	BoxA	5.291005291
+A8	0.136	A7	H706	H505	TMI3T4A	138	2	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 3	T4	NA	DNA filter	NA	NA	BoxA	0
+A80	0.091	G2	H714	H522	TMI1T0A	102	27	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	0.705882353
+A84	0.056	G6	H701	H510	TMI1T0P	105	22	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	1.715265866
+A88	0.091	G10	H712	H513	TMI1T0B	103	28	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	0.379506641
+A90	27.5	G12	H706	H510	TMI2T4A	126	3	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T4	NA	DNA filter	NA	NA	BoxA	0.004009891
+A23	47.2	B7	H712	H517	K3ANMCT13	88	23	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M C	T13	NA	mud	NA	NA	BoxA	0.08778989
+A28	46.1	B12	H710	H506	K3BMOBT0	91	1	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M B	T0	NA	mud	NA	NA	BoxA	0.09819529
+A29	45.7	C1	H703	H506	TM1-1	101	1	K0823	sediment inhibition	experiment	NA	NA	NA	source	TM1-1 MSR comm.	8/10/21	Glycerol stocks		NA	NA	BoxA	0.123377089
+A35	50	C6	H707	H505	K3ANMAT0	83	7	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M A	T0	NA	mud	NA	NA	BoxA	0
+A37	51	C8	H706	H517	K3ANMCT0	87	4	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M C	T0	NA	mud	NA	NA	BoxA	0
+A40	48.1	C11	H710	H517	K3AMOCT0	81	5	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M C	T0	NA	mud	NA	NA	BoxA	0.022851339
+A44	48.8	D3	H723	H503	K3BMOAT0	90	6	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M A	T0	NA	mud	NA	NA	BoxA	0.010674295
+A48	53	D7	H710	H503	K3BNMT0	98	9	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M B	T0	NA	mud	NA	NA	BoxA	0.030521703
+A49	51	D8	H711	H503	K3CO1	99	2	K0823	sediment inhibition	experiment	NA	no	NA	source	Core 3B microbio (tube 1)	NA	mud		NA	NA	BoxA	0.105946794
+A50	49.6	D9	H714	H503	K3AMOAT0	78	11	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M A	T0	NA	mud	NA	NA	BoxA	0.028674422
+A53	54	D12	H703	H503	K3ANMBT0	85	12	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M B	T0	NA	mud	NA	NA	BoxA	0.040280171
+A54	52	E1	H706	H516	K3ANMBT13	86	16	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M B	T13	NA	mud	NA	NA	BoxA	0
+A55	54	E2	H712	H516	K3AMOBT13	80	19	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M B	T13	NA	mud	NA	NA	BoxA	0.037528146
+A59	50	E6	H714	H516	K3AMOAT13	79	17	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M A	T13	NA	mud	NA	NA	BoxA	0
+A62	46.4	E8	H702	H516	K3BNMCT0	96	10	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M C	T0	NA	mud	NA	NA	BoxA	0.034037979
+A66	48.4	E12	H723	H516	K3BNMCT13	97	14	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M C	T13	NA	mud	NA	NA	BoxA	0
+A67	48.1	F1	H710	H522	K3BNMAT13	94	15	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M A	T13	NA	mud	NA	NA	BoxA	0
+A72	0.109	F6	H703	H513	K3BMOBT13	92	21	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M B	T13	NA	mud	NA	NA	BoxA	0
+A73	52	F7	H705	H522	K3BMOA13	89	22	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M A	T13	NA	mud	NA	NA	BoxA	0
+A75	52	F9	H723	H513	K3BMOCT13	93	20	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M C	T13	NA	mud	NA	NA	BoxA	0
+A83	54	G5	H703	H522	K3ANMAT13	84	8	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M A	T13	NA	mud	NA	NA	BoxA	0
+A87	58	G9	H705	H510	K3BNMBT13	95	13	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M B	T13	NA	mud	NA	NA	BoxA	0
+A89	45.1	G11	H720	H522	K3AMOCT13	82	18	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M C	T13	NA	mud	NA	NA	BoxA	0
+A91	53	H1	H714	H510	K3CO2	100	3	K0823	sediment inhibition	experiment	NA	NA	NA	source	Core 3B microbio (tube 2)	NA	mud		NA	NA	BoxA	0

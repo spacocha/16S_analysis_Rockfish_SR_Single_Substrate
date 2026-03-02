@@ -1,0 +1,193 @@
+sample-id	Step1Conc	WellNo	i7Primer	i5Primer	OriginalName	TechRepNo	FirstNo	Experiment	Project	SampleType	ControlType	Inhibitor	Substrate	SedimentLocation	Condition	Timepoint	Date	SourceType	Split	TubeNo	SeqId	PercentContam
+A1	0.688	A1	H701	H505	TMI2T3B	125	8	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 2	T3	4/17/23	filter	NA	NA	BoxA	0.018478738
+A12	21.3	A8	H712	H506	TMPGT3A	157	1	TM1-1	substrates	control	positive	NA	Acetate	NA	(+) G20	T3	4/17/23	filter	NA	NA	BoxA	99.94938247
+A13	0.432	A9	H720	H517	TMI2T1L	119	13	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T1	NA	DNA filter	NA	NA	BoxA	0.133095603
+A14	60	A10	H710	H505	TMI3T1M	132	9	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T1	NA	DNA filter	NA	NA	BoxA	0
+A15	32.3	A11	H711	H506	TMPGT4L	160	2	TM1-1	substrates	control	positive	NA	Lactate	NA	(+) G20	T4	4/17/23	filter	NA	NA	BoxA	99.91601015
+A16	too high	A12	H714	H517	TMI3T2M	135	19	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T2	NA	DNA filter	NA	NA	BoxA	0.015790839
+A17	39.7	B1	H702	H517	TMI3T4M	140	15	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T4	4/17/23	filter	NA	NA	BoxA	0.027961906
+A18	0.053	B2	H703	H505	TMI2T3A	124	19	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T3	4/17/23	filter	NA	NA	BoxA	13.06818182
+A19	too high	B3	H701	H506	TMI2T2L	122	23	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T2	NA	DNA filter	NA	NA	BoxA	0.039365033
+A20	too high	B4	H707	H517	TMPGT2M	156	16	TM1-1	substrates	control	positive	NA	Malate	NA	(+) G20	T2	NA	DNA filter	NA	NA	BoxA	99.95019172
+A21	0.157	B5	H723	H505	TMI1T3A	111	18	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T3	4/17/23	filter	NA	NA	BoxA	0.188473366
+A22	0.06	B6	H705	H506	TMI3T3P	137	3	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 3	T3	4/17/23	filter	NA	NA	BoxA	25.71428571
+A23	47.2	B7	H712	H517	K3ANMCT13	88	23	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M C	T13	NA	mud	NA	NA	BoxA	0.08778989
+A24	0.059	B8	H720	H505	TMNGT2M	149	15	TM1-1	substrates	control	negative	NA	Malate	NA	(-) MQ	T2	NA	DNA filter	NA	NA	BoxA	10.97046414
+A25	0.66	B9	H706	H506	TMPGTOM	162	30	TM1-1	substrates	control	positive	NA	Malate	NA	(+) G20	T0	8/10/21	filter	NA	NA	BoxA	99.90191553
+A26	9.51	B10	H711	H517	TMPGT1M	154	6	TM1-1	substrates	control	positive	NA	Malate	NA	(+) G20	T1	NA	DNA filter	NA	NA	BoxA	99.89824965
+A27	5.57	B11	H714	H505	TMI3T4L	139	11	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 3	T4	4/17/23	filter	NA	NA	BoxA	0
+A28	46.1	B12	H710	H506	K3BMOBT0	91	1	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M B	T0	NA	mud	NA	NA	BoxA	0.09819529
+A29	45.7	C1	H703	H506	TM1-1	101	1	K0823	sediment inhibition	experiment	NA	NA	NA	source	TM1-1 MSR comm.	8/10/21	Glycerol stocks		NA	NA	BoxA	0.123377089
+A3	40.3	A2	H702	H506	TMPGT4M	161	9	TM1-1	substrates	control	positive	NA	Malate	NA	(+) G20	T4	4/17/23	filter	NA	NA	BoxA	99.96046937
+A31	too high	C2	H701	H517	TMI1T1M	107	7	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T1	NA	DNA filter	NA	NA	BoxA	0.016542141
+A32	12	C3	H702	H505	TMI1T4M	114	16	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T4	4/17/23	filter	NA	NA	BoxA	0
+A33	0.135	C4	H723	H506	TMI3T0M	129	35	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 3	T0	8/10/21	filter	NA	NA	BoxA	18.73182083
+A34	0.148	C5	H705	H517	TMI2T0L	117	32	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	0.780964002
+A35	50	C6	H707	H505	K3ANMAT0	83	7	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M A	T0	NA	mud	NA	NA	BoxA	0
+A36	0.363	C7	H720	H506	TMI3T3B	136	12	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 3	T3	4/17/23	filter	NA	NA	BoxA	0.289813368
+A37	51	C8	H706	H517	K3ANMCT0	87	4	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M C	T0	NA	mud	NA	NA	BoxA	0
+A38	too high	C9	H712	H505	TMI1T1L	106	12	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 1	T1	NA	DNA filter	NA	NA	BoxA	0
+A39	0.12	C10	H714	H506	TMI1T0M	104	37	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	0.632555524
+A4	33.5	A3	H703	H517	TMPGT3B	158	5	TM1-1	substrates	control	positive	NA	butyrate	NA	(+) G20	T3	4/17/23	filter	NA	NA	BoxA	99.97040306
+A40	48.1	C11	H710	H517	K3AMOCT0	81	5	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M C	T0	NA	mud	NA	NA	BoxA	0.022851339
+A41	17.4	C12	H711	H505	TMI1T2L	109	22	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 1	T2	NA	DNA filter	NA	NA	BoxA	0
+A42	57	D1	H705	H503	TMPGT1L	153	11	TM1-1	substrates	control	positive	NA	Lactate	NA	(+) G20	T1	NA	DNA filter	NA	NA	BoxA	100
+A43	0.063	D2	H707	H503	TMNGT0A	141	34	TM1-1	substrates	control	negative	NA	Acetate	NA	(-) MQ	T0	8/10/21	filter	NA	NA	BoxA	91.26213592
+A44	48.8	D3	H723	H503	K3BMOAT0	90	6	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M A	T0	NA	mud	NA	NA	BoxA	0.010674295
+A45	0.057	D4	H706	H503	TMI2T2A	121	28	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T2	NA	DNA filter	NA	NA	BoxA	17.27272727
+A46	5.27	D5	H712	H503	TMPGT4A	159	1	TM1-1	substrates	control	positive	NA	Acetate	NA	(+) G20	T4	NA	DNA filter	NA	NA	BoxA	99.99218218
+A47	0.062	D6	H720	H503	TMNGT2A	147	25	TM1-1	substrates	control	negative	NA	Acetate	NA	(-) MQ	T2	NA	DNA filter	NA	NA	BoxA	70.90909091
+A48	53	D7	H710	H503	K3BNMT0	98	9	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M B	T0	NA	mud	NA	NA	BoxA	0.030521703
+A49	51	D8	H711	H503	K3CO1	99	2	K0823	sediment inhibition	experiment	NA	no	NA	source	Core 3B microbio (tube 1)	NA	mud		NA	NA	BoxA	0.105946794
+A5	15.4	A4	H705	H505	TMI2T4L	127	17	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 2	T4	4/17/23	filter	NA	NA	BoxA	0.001663451
+A50	49.6	D9	H714	H503	K3AMOAT0	78	11	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M A	T0	NA	mud	NA	NA	BoxA	0.028674422
+A51	0.22	D10	H701	H503	TMI1T2A	108	27	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T2	NA	DNA filter	NA	NA	BoxA	0.168023782
+A52	0.098	D11	H702	H503	TMI2T0B	116	31	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	2.861771058
+A53	54	D12	H703	H503	K3ANMBT0	85	12	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M B	T0	NA	mud	NA	NA	BoxA	0.040280171
+A54	52	E1	H706	H516	K3ANMBT13	86	16	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M B	T13	NA	mud	NA	NA	BoxA	0
+A55	54	E2	H712	H516	K3AMOBT13	80	19	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M B	T13	NA	mud	NA	NA	BoxA	0.037528146
+A56	too high	E3	H720	H516	TMI3T2L	134	24	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 3	T2	NA	DNA filter	NA	NA	BoxA	0.009987516
+A57	0.106	E4	H710	H516	TMI3T2A	133	29	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 3	T2	NA	DNA filter	NA	NA	BoxA	0.603864734
+A58	0.053	E5	H711	H516	TMNGT3A	150	7	TM1-1	substrates	control	negative	NA	pyruvate	NA	(-)	T3	4/17/23	filter	NA	NA	BoxA	4.076086957
+A59	50	E6	H714	H516	K3AMOAT13	79	17	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M A	T13	NA	mud	NA	NA	BoxA	0
+A6	0.06	A5	H707	H506	TMI3T0A	128	36	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 3	T0	8/10/21	filter	NA	NA	BoxA	13.13131313
+A61	0.053	E7	H701	H516	TMNGT1L	145	10	TM1-1	substrates	control	negative	NA	Lactate	NA	(-) MQ	T1	NA	DNA filter	NA	NA	BoxA	3.03030303
+A62	46.4	E8	H702	H516	K3BNMCT0	96	10	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M C	T0	NA	mud	NA	NA	BoxA	0.034037979
+A63	5.35	E9	H703	H516	TMI1T4A	113	30	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T4	NA	DNA filter	NA	NA	BoxA	0.003140753
+A64	53	E10	H705	H516	TMPGT2A	155	26	TM1-1	substrates	control	positive	NA	Acetate	NA	(+) G20	T2	NA	DNA filter	NA	NA	BoxA	99.99179824
+A65	too high	E11	H707	H516	TMI1T2M	110	17	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 1	T2	NA	DNA filter	NA	NA	BoxA	0.030377183
+A66	48.4	E12	H723	H516	K3BNMCT13	97	14	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M C	T13	NA	mud	NA	NA	BoxA	0
+A67	48.1	F1	H710	H522	K3BNMAT13	94	15	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M A	T13	NA	mud	NA	NA	BoxA	0
+A68	60	F2	H711	H510	TMI2T2M	123	18	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 2	T2	NA	DNA filter	NA	NA	BoxA	0
+A69	0.076	F3	H714	H513	TMNGT2L	148	20	TM1-1	substrates	control	negative	NA	Lactate	NA	(-) MQ	T2	NA	DNA filter	NA	NA	BoxA	0
+A7	0.055	A6	H723	H517	TMI1T3P	112	13	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 1	T3	4/17/23	filter	NA	NA	BoxA	1.73992674
+A70	too high	F4	H701	H522	TMI3T1L	131	14	TM1-1	substrates	experiment	NA	NA	Lactate	NA	inoc 3	T1	NA	DNA filter	NA	NA	BoxA	0
+A71	0.109	F5	H702	H510	TMI2T0M	118	38	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	0.253281142
+A72	0.109	F6	H703	H513	K3BMOBT13	92	21	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M B	T13	NA	mud	NA	NA	BoxA	0
+A73	52	F7	H705	H522	K3BMOA13	89	22	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M A	T13	NA	mud	NA	NA	BoxA	0
+A74	0.05	F8	H707	H510	TMNGT0M	143	25	TM1-1	substrates	control	negative	NA	Malate	NA	(-) MQ	T0	8/10/21	filter	NA	NA	BoxA	5.414012739
+A75	52	F9	H723	H513	K3BMOCT13	93	20	K0823	sediment inhibition	experiment	NA	yes	NA	bottom	DB (+)M C	T13	NA	mud	NA	NA	BoxA	0
+A76	52	F10	H706	H522	TMI2T1M	120	8	TM1-1	substrates	experiment	NA	NA	Malate	NA	inoc 2	T1	NA	DNA filter	NA	NA	BoxA	0
+A77	0.062	F11	H712	H510	TMI2T0A	115	26	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T0	8/10/21	filter	NA	NA	BoxA	0
+A78	0.071	F12	H720	H513	TMNGT1M	146	5	TM1-1	substrates	control	negative	NA	Malate	NA	(-) MQ	T1	NA	DNA filter	NA	NA	BoxA	1.62601626
+A79	0.1	G1	H711	H513	TMI3T0P	130	24	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 3	T0	8/10/21	filter	NA	NA	BoxA	5.291005291
+A8	0.136	A7	H706	H505	TMI3T4A	138	2	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 3	T4	NA	DNA filter	NA	NA	BoxA	0
+A80	0.091	G2	H714	H522	TMI1T0A	102	27	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	0.705882353
+A81	0.061	G3	H710	H510	TMNGT0P	144	23	TM1-1	substrates	control	negative	NA	pyruvate	NA	(-) MQ	T0	8/10/21	filter	NA	NA	BoxA	40.17094017
+A82	0.311	G4	H702	H513	TMPGT0A	151	20	TM1-1	substrates	control	positive	NA	Acetate	NA	(+) G20	T0	8/10/21	filter	NA	NA	BoxA	99.68577495
+A83	54	G5	H703	H522	K3ANMAT13	84	8	K0823	sediment inhibition	experiment	NA	no	NA	top	UA (-)M A	T13	NA	mud	NA	NA	BoxA	0
+A84	0.056	G6	H701	H510	TMI1T0P	105	22	TM1-1	substrates	experiment	NA	NA	pyruvate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	1.715265866
+A85	0.347	G7	H707	H513	TMPGT0L	152	21	TM1-1	substrates	control	positive	NA	Lactate	NA	(+) G20	T0	8/10/21	filter	NA	NA	BoxA	99.89702586
+A86	0.075	G8	H723	H522	TMNGT0L	142	33	TM1-1	substrates	control	negative	NA	Lactate	NA	(-) MQ	T0	8/10/21	filter	NA	NA	BoxA	22.09302326
+A87	58	G9	H705	H510	K3BNMBT13	95	13	K0823	sediment inhibition	experiment	NA	no	NA	bottom	DB (-)M B	T13	NA	mud	NA	NA	BoxA	0
+A88	0.091	G10	H712	H513	TMI1T0B	103	28	TM1-1	substrates	experiment	NA	NA	butyrate	NA	inoc 1	T0	8/10/21	filter	NA	NA	BoxA	0.379506641
+A89	45.1	G11	H720	H522	K3AMOCT13	82	18	K0823	sediment inhibition	experiment	NA	yes	NA	top	UA (+)M C	T13	NA	mud	NA	NA	BoxA	0
+A90	27.5	G12	H706	H510	TMI2T4A	126	3	TM1-1	substrates	experiment	NA	NA	Acetate	NA	inoc 2	T4	NA	DNA filter	NA	NA	BoxA	0.004009891
+A91	53	H1	H714	H510	K3CO2	100	3	K0823	sediment inhibition	experiment	NA	NA	NA	source	Core 3B microbio (tube 2)	NA	mud		NA	NA	BoxA	0
+ANC	too low	H3	H711	H522	ANC	57	NA	NA	control	control	negative	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0
+APC	too high	H2	H710	H513	APC	59	NA	NA	control	control	positive	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	31.25
+B1	59	A1	H701	H505	K4MOCT10EU	26	44	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iC	T10	NA	NA	No	44	BoxB	0
+B1-re	59	H6	H702	H522	B1-re	26	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0
+B10	49.8	A11	H711	H506	K4MOCT10CY	25	53	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iC-2	T10	NA	NA	Yes	53	BoxB	0.066228298
+B11	0.157	A12	H714	H517	TC24-12	70	TC24-09	NA	microbial mats	experiment	NA	NA	NA	NA	pink/brown layers	NA	NA	NA	No	NA	BoxB	0
+B12	45.4	B1	H702	H517	K4MOCT5EU	27	20	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iC	T5	NA	NA	No	NA	BoxB	0
+B13	51	B2	H703	H505	K2CT7EU	7	44	K0722	biomass	experiment	NA	NA	Eu	NA	Tr1-C	T7	8/19/22	NA	No	NA	BoxB	0
+B14	0.566	B3	H701	H506	K0823	1	3	8/3/23	biomass inhibition	experiment	NA	NA	NA	NA	K0823 inoc slurry	NA	NA	NA	No	NA	BoxB	0.196856449
+B15	4.05	B4	H707	H517	TC24-03	61	TC24-11	polygonal tufted	microbial mats	experiment	NA	NA	NA	NA	lower pink layer	NA	NA	NA	No	NA	BoxB	0.016531294
+B16	54	B5	H723	H505	K4MOBT5EU	22	21	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iB	T5	NA	NA	No	NA	BoxB	0
+B17	48.9	B6	H705	H506	K4MOAT5EU	17	22	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iA	T5	NA	NA	No	NA	BoxB	0
+B18	0.116	B7	H712	H517	K4MONT10CY	30	58	K0824	biomass inhibition	control	negative	yes	Cy	NA	M(+) MQ-1	T10	NA	NA	Yes	NA	BoxB	28.32989691
+B19	0.095	B8	H720	H505	K4MONT10CY	30	59	K0824	biomass inhibition	control	negative	yes	Cy	NA	M(+) MQ-2	T10	NA	NA	Yes	NA	BoxB	18.0141844
+B2	0.125	A2	H702	H506	K4MONT0EU	29	10	K0824	biomass inhibition	control	negative	yes	Eu	NA	M(+) MQ	T0	NA	NA	No	NA	BoxB	96.68999588
+B20	48.6	B9	H706	H506	K4NMAT5CY	38	40	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iA-1	T5	NA	NA	Yes	NA	BoxB	0.006776537
+B21	41.4	B10	H711	H517	K4NMAT5CY	38	41	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iA-2	T5	NA	NA	Yes	NA	BoxB	0.014137828
+B22	51	B11	H714	H505	K4MNAT5CY	10	32	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iA-1	T5	NA	NA	Yes	NA	BoxB	0
+B23	41.2	B12	H710	H506	K4MNAT5CY	10	33	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iA-2	T5	NA	NA	Yes	NA	BoxB	0
+B24	37.4	C1	H703	H506	K4NMAT5EU	39	25	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iA	T5	NA	NA	No	NA	BoxB	0
+B25	42.8	C2	H701	H517	K4NMBT5EU	45	26	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iB	T5	NA	NA	No	NA	BoxB	0
+B26	45	C3	H702	H505	K2AT7EU	3	41	K0722	biomass	experiment	NA	NA	Eu	NA	Tr1-A	T7	8/19/22	NA	No	NA	BoxB	0
+B27	0.736	C4	H723	H506	TM22-2	77	2	7/22/22	biomass	experiment	NA	NA	NA	NA	K0722 TM22-2	NA	NA	NA	No	NA	BoxB	0.04374028
+B28	0.302	C5	H705	H517	TC24-04	62	TC24-11	polygonal tufted	microbial mats	experiment	NA	NA	NA	NA	lower pink layer	NA	NA	NA	No	NA	BoxB	0
+B29	3.61	C6	H707	H505	K4NMAT0EU	35	5	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iA	T0	NA	NA	No	NA	BoxB	1.199538302
+B29-re	3.61	H8	H705	H513	B29-re	35	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0.936813154
+B3	too low	A3	H703	H517	K2MT7EU	9	42	K0722	biomass	control	negative	NA	Eu	NA	Tr1-MQ	T7	8/19/22	NA	No	NA	BoxB	23.52941176
+B30	0.134	C7	H720	H506	K4NMNT0EU	53	6	K0824	biomass inhibition	control	negative	no	Eu	NA	m(-) MQ	T0	NA	NA	No	NA	BoxB	89.31203931
+B31	0.87	C8	H706	H517	K4MOBT0CY	18	11	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iB	T0	NA	NA	No	NA	BoxB	1.493653725
+B32	0.072	C9	H712	H505	K2MT7CY	8	40	K0722	biomass	control	negative	NA	Cy	NA	Tr1-MQ	T7	8/19/22	NA	No	NA	BoxB	6.798245614
+B33	0.714	C10	H714	H506	TC24-18	76	TC24-09	biscuit mat	microbial mats	experiment	NA	NA	NA	NA	green and yellow layer at surface of biscuit mat	NA	NA	NA	No	NA	BoxB	0
+B34	39.9	C11	H710	H517	K4MNBT5CY	11	30	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iB-1	T5	NA	NA	Yes	NA	BoxB	0
+B35	41.9	C12	H711	H505	K4MNBT5CY	11	31	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iB-2	T5	NA	NA	Yes	NA	BoxB	0
+B36	3.15	D1	H705	H503	TC24-13	71	TB24-07	pink filamentous mat	microbial mats	experiment	NA	NA	NA	NA	lacks layers	NA	NA	NA	No	NA	BoxB	0.014461665
+B37	0.073	D2	H707	H503	K4MONT5CY	32	34	K0824	biomass inhibition	control	negative	yes	Cy	NA	M(+) MQ-1	T5	NA	NA	Yes	NA	BoxB	78.67036011
+B38	0.08	D3	H723	H503	K4MONT5CY	32	35	K0824	biomass inhibition	control	negative	yes	Cy	NA	M(+) MQ-2	T5	NA	NA	Yes	NA	BoxB	85.75712144
+B39	0.082	D4	H706	H503	K4MONT10EU	31	47	K0824	biomass inhibition	control	negative	yes	Eu	NA	M(+) MQ	T10	NA	NA	No	47	BoxB	85.58823529
+B4	0.069	A5	H707	H506	K4MONT5EU	33	23	K0824	biomass inhibition	control	negative	yes	Eu	NA	M(+) MQ	T5	NA	NA	No	NA	BoxB	82.03821656
+B40	3.76	D5	H712	H503	TC24-02	60	TC24-11	polygonal tufted	microbial mats	experiment	NA	NA	NA	NA	top tufted layer and green layer	NA	NA	NA	No	NA	BoxB	0
+B41	9.89	D6	H720	H503	TC24-09	67	TC24-09	NA	microbial mats	experiment	NA	NA	NA	NA	green layer	NA	NA	NA	No	NA	BoxB	0
+B42	4.42	D7	H710	H503	K4MOBT0EU	19	8	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iB	T0	NA	NA	No	NA	BoxB	2.222781714
+B43	0.069	D8	H711	H503	K4NMNT5EU	66	24	K0824	biomass inhibition	control	negative	no	Eu	NA	m(-) MQ	T5	NA	NA	No	NA	BoxB	91.99318569
+B44	52	D9	H714	H503	K4NMCT5EU	51	27	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iC	T5	NA	NA	No	NA	BoxB	0
+B45	1.28	D10	H701	H503	K4MOAT0CY	13	1	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iA	T0	NA	NA	No	NA	BoxB	0.690689214
+B45-re	1.28	H9	H707	H522	B45-re	13	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0.679504281
+B46	4.23	D11	H702	H503	K4MOAT0EU	14	9	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iA	T0	NA	NA	No	NA	BoxB	0.674623026
+B47	10.5	D12	H703	H503	TC24-14	72	TB24-07	pink filamentous mat	microbial mats	experiment	NA	NA	NA	NA	lacks layers	NA	NA	NA	No	NA	BoxB	0
+B48	47.6	E1	H706	H516	K2BT7CY	4	46	K0722	biomass	experiment	NA	NA	Cy	NA	Tr1-B	T7	8/19/22	NA	No	NA	BoxB	0
+B49	4.4	E2	H712	H516	K4MOCT0EU	24	7	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iC	T0	NA	NA	No	NA	BoxB	3.314732675
+B5	53	A6	H723	H517	K4MNCT5CY	12	28	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iC-1	T5	NA	NA	Yes	NA	BoxB	0
+B50	57	E3	H720	H516	K4NMCT10CY	48	60	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iC-1	T10	NA	NA	Yes	60	BoxB	0
+B50-re	57	H10	H720	H510	B50-re	48	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0
+B51	too high	E4	H710	H516	K4NMCT10CY	48	61	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iC-2	T10	NA	NA	Yes	61	BoxB	0
+B52	too high	E5	H711	H516	K4NMBT10EU	43	50	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iB	T10	NA	NA	No	NA	BoxB	0
+B53	7.9	E6	H714	H516	TC24-07	65	TC24-11	Flat mat	microbial mats	experiment	NA	NA	NA	NA	lower pink layer	NA	NA	NA	No	NA	BoxB	0
+B54	56	E7	H701	H516	K2BT7EU	5	39	K0722	biomass	experiment	NA	NA	Eu	NA	Tr1-B	T7	8/19/22	NA	No	NA	BoxB	0
+B55	53	E8	H702	H516	K4NMAT10EU	37	49	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iA	T10	NA	NA	No	NA	BoxB	0
+B55-re	53	H11	H706	H513	B55-re	37	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0
+B56	1.96	E9	H703	H516	K4NMBT0EU	41	4	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iB	T0	NA	NA	No	NA	BoxB	3.476610719
+B57	45.5	E10	H705	H516	K4NMAT10CY	36	64	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iA-1	T10	NA	NA	Yes	64	BoxB	0
+B58	45.9	E11	H707	H516	K4NMAT10CY	36	65	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iA-2	T10	NA	NA	Yes	65	BoxB	0
+B59	40.3	E12	H723	H516	TC24-15	73	TC24-10	thin subtidal mat	microbial mats	experiment	NA	NA	NA	NA	green slimey sheet-like subtidal mat adjacent to mangroves. Sample in ~1 m of water depth	NA	NA	NA	No	NA	BoxB	0
+B6	53	A7	H706	H505	K4MNCT5CY	12	29	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iC-2	T5	NA	NA	Yes	NA	BoxB	0
+B60	3.32	F1	H710	H522	K4NMCT0EU	47	3	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iC	T0	NA	NA	No	NA	BoxB	0.759816716
+B61	46.6	F2	H711	H510	K4NMCT5CY	50	36	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iC-1	T5	NA	NA	Yes	NA	BoxB	0
+B62	54	F3	H714	H513	K4NMCT5CY	50	37	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iC-2	T5	NA	NA	Yes	NA	BoxB	0
+B65	6.79	F4	H701	H522	TC24-06	64	TC24-11	Flat mat	microbial mats	experiment	NA	NA	NA	NA	top yellow/green and dark green layer	NA	NA	NA	No	NA	BoxB	0
+B66	3.94	F5	H702	H510	TC24-01	59	TC24-11	polygonal tufted	microbial mats	experiment	NA	NA	NA	NA	top tufted layer and green layer	NA	NA	NA	No	NA	BoxB	0
+B67	19.4	F6	H703	H513	K4MOBT10CY	20	54	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iB-1	T10	NA	NA	Yes	NA	BoxB	0
+B68	27.9	F7	H705	H522	K4MOBT10CY	20	55	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iB-2	T10	NA	NA	Yes	NA	BoxB	0
+B69	40.5	F8	H707	H510	K4NMCT10EU	49	51	K0824	biomass inhibition	experiment	NA	no	Eu	NA	m(-) iC	T10	NA	NA	No	NA	BoxB	0
+B7	56	A8	H712	H506	K4NMBT5CY	44	38	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iB-1	T5	NA	NA	Yes	NA	BoxB	0.025575448
+B70	23.1	F9	H723	H513	K2AT7CY	2	45	K0722	biomass	experiment	NA	NA	Cy	NA	Tr1-A	T7	8/19/22	NA	No	NA	BoxB	0
+B71	0.798	F10	H706	H522	K4MOCT0CY	23	12	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iC	T0	NA	NA	No	NA	BoxB	5.622614716
+B72	0.081	F11	H712	H510	K4MONT0CY	28	2	K0824	biomass inhibition	control	negative	yes	Cy	NA	M(+) MQ	T0	NA	NA	No	NA	BoxB	83.38983051
+B73	24.2	F12	H720	H513	K4NMBT10CY	42	62	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iB-1	T10	NA	NA	Yes	62	BoxB	0
+B74	35.4	G1	H711	H513	K4NMBT10CY	42	63	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iB-2	T10	NA	NA	Yes	63	BoxB	0
+B75	13	G2	H714	H522	TC24-05	63	TC24-11	Flat mat	microbial mats	experiment	NA	NA	NA	NA	top yellow/green and dark green layer	NA	NA	NA	No	NA	BoxB	0
+B76	0.309	G3	H710	H510	K4NMAT0CY	34	14	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iA-1	T0	NA	NA	Yes	NA	BoxB	0.07424406
+B77	0.412	G4	H702	H513	K4NMAT0CY	34	15	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iA-2	T0	NA	NA	Yes	NA	BoxB	0.160474016
+B78	8.23	G5	H703	H522	TC24-08	66	TC24-11	Flat mat	microbial mats	experiment	NA	NA	NA	NA	lower pink layer	NA	NA	NA	No	NA	BoxB	0
+B79	too high	G6	H701	H510	K4MOAT10EU	16	46	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iA	T10	NA	NA	No	46	BoxB	0
+B8	58	A9	H720	H517	K4NMBT5CY	44	39	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iB-2	T5	NA	NA	Yes	NA	BoxB	0
+B80	38	G7	H707	H513	K4MOAT10CY	15	56	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iA-1	T10	NA	NA	Yes	NA	BoxB	0
+B81	40.8	G8	H723	H522	K4MOAT10CY	15	57	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iA-2	T10	NA	NA	Yes	NA	BoxB	0
+B82	45.8	G9	H705	H510	K2CT7CY	6	43	K0722	biomass	experiment	NA	NA	Cy	NA	Tr1-C	T7	8/19/22	NA	No	NA	BoxB	0
+B83	0.699	G10	H712	H513	K4NMBT0CY	40	16	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iB-1	T0	NA	NA	Yes	NA	BoxB	0
+B84	0.734	G11	H720	H522	K4NMBT0CY	40	17	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iB-2	T0	NA	NA	Yes	NA	BoxB	0.087955793
+B85	1.47	G12	H706	H510	TC24-11	69	TC24-09	NA	microbial mats	experiment	NA	NA	NA	NA	pink/brown layers	NA	NA	NA	No	NA	BoxB	0
+B86	0.217	H1	H714	H510	K4NMCT0CY	46	18	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iC-1	T0	NA	NA	Yes	NA	BoxB	0.110762415
+B87	0.557	H2	H710	H513	K4NMCT0CY	46	19	K0824	biomass inhibition	experiment	NA	no	Cy	NA	m(-) iC-2	T0	NA	NA	Yes	NA	BoxB	0.022308624
+B88	0.468	H3	H711	H522	TC24-17	75	TC24-09	biscuit mat	microbial mats	experiment	NA	NA	NA	NA	green and yellow layer at surface of biscuit mat	NA	NA	NA	No	NA	BoxB	0
+B89	53	H4	H703	H510	K4MOBT10EU	21	45	K0824	biomass inhibition	experiment	NA	yes	Eu	NA	M(+) iB	T10	NA	NA	No	45	BoxB	0
+B9	56	A10	H710	H505	K4MOCT10CY	25	52	K0824	biomass inhibition	experiment	NA	yes	Cy	NA	M(+) iC-1	T10	NA	NA	Yes	52	BoxB	0
+B9-re	56	H7	H723	H510	B9-re	25	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0
+B90	25.1	H5	H701	H513	TC24-16	74	TC24-10	thin subtidal mat	microbial mats	experiment	NA	NA	NA	NA	green slimey sheet-like subtidal mat adjacent to mangroves. Sample in ~1 m of water depth	NA	NA	NA	No	NA	BoxB	0
+B90-re	25.1	H12	H712	H522	B90-re	74	NA	NA	control	experiment	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0
+B91	0.066	H6	H702	H522	K4NMNT0CY	52	13	K0824	biomass inhibition	control	negative	no	Cy	NA	m(-) MQ	T0	NA	NA	No	NA	BoxB	18.22660099
+B92	0.085	H7	H723	H510	K4NMNT10EU	54	48	K0824	biomass inhibition	control	negative	no	Eu	NA	m(-) MQ	T10	NA	NA	No	NA	BoxB	92.33716475
+B93	0.057	H8	H705	H513	K4NMNT5CY	55	42	K0824	biomass inhibition	control	negative	no	Cy	NA	m(-) MQ-1	T5	NA	NA	Yes	NA	BoxB	19.58762887
+B94	0.068	H9	H707	H522	K4NMNT5CY	55	43	K0824	biomass inhibition	control	negative	no	Cy	NA	m(-) MQ-2	T5	NA	NA	Yes	NA	BoxB	22.52252252
+B95	6.85	H10	H720	H510	TC24-10	68	TC24-09	NA	microbial mats	experiment	NA	NA	NA	NA	green layer	NA	NA	NA	No	NA	BoxB	0
+BoxAPC2	56	H4	H703	H510	PC2	58	NA	NA	control	control	positive	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	15.44598464
+BoxBPC2	56	H11	H706	H513	NA	58	NA	NA	control	control	positive	NA	NA	NA	NA	NA	NA	NA	No	NA	BoxB	16.63913626
+NC		A4	H705	H505	NA	57	NA	NA	control	control	negative	NA	NA	NA	NA	NA	NA	NA	No	NA	BoxB	0
+nc-day10	0.061	H12	H712	H522	NA	57	NA	NA	control	control	negative	NA	NA	NA	NA	NA	NA	NA	No	NA	BoxB	3.797468354
+NC-day2	too low	H5	H701	H513	NC day2	57	NA	NA	control	control	negative	NA	NA	NA	NA	NA	NA	NA	NA	NA	BoxA	0

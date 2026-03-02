@@ -1,0 +1,10 @@
+Variables imported
+Filter for single substrate and experiment
+Mon Mar  2 09:59:03 EST 2026
+Saved FeatureTable[Frequency] to: merged_dada2_MicrobIEM_hits_removed_no_euks_substrate_exp.qza
+Saved FeatureTable[Frequency] to: merged_dada2_MicrobIEM_hits_removed_no_euks_substrate_exp_group.qza
+Saved FeatureData[Sequence] to: merged_dada2_MicrobIEM_hits_removed_no_euks_substrate_exp_group_reps.qza
+Exported merged_dada2_MicrobIEM_hits_removed_no_euks_substrate_exp_group.qza as BIOMV210DirFmt to directory merged_dada2_MicrobIEM_hits_removed_no_euks_substrate_exp_group_dir
+Name "main::OTU" used only once: possible typo at ../../scripts/sum_mat_cols_qiime.pl line 15.
+End of script
+Mon Mar  2 10:01:09 EST 2026
