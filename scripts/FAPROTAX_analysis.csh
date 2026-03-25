@@ -54,13 +54,13 @@ qiime composition ancom \
  --i-table ${PREFIX}_dada2_l7_rare_FAPRO_comp.qza\
  --m-metadata-file ${METADATA}\
  --m-metadata-column ${COL1}\
- --o-visualization ${PREFIX}_dada2_l7_rare_FAPRO_comp_ancom_AG2.qza
+ --o-visualization ${PREFIX}_dada2_l7_rare_FAPRO_comp_ancom_${COL1}.qza
 
 qiime composition ancom \
  --i-table ${PREFIX}_dada2_l7_rare_FAPRO_comp.qza\
  --m-metadata-file ${METADATA}\
  --m-metadata-column ${COL2}\
- --o-visualization ${PREFIX}_dada2_l7_rare_FAPRO_comp_ancom_Inh.qza
+ --o-visualization ${PREFIX}_dada2_l7_rare_FAPRO_comp_ancom_${COL2}.qza
 
 echo "End of script"
 date

@@ -11,7 +11,8 @@ while ($line =<IN>){
     chomp ($line);
     next unless ($line);
     next if ($line=~/Taxon/);
-    next if ($line=~/Archaea/);
+    #Note: This was changed on 3/18/26, but run with it for most analyses
+    #next if ($line=~/Archaea/);
     ($ASV, $taxonomy, $confidence)=split ("\t", $line);
     ($taxonomy)=~s/\; /\;/g;
     #die "$taxonomy\n";

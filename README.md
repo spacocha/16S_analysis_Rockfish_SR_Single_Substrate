@@ -31,5 +31,20 @@ cp ../../config_files/exp_only_moving_pictures.config .
 
 sbatch ../../scripts/exp_only_moving_pictures.csh
 
+#Test beta diversity difference between substrates
 
+cp ../../config_files/beta_group_significance.config  .
 
+sbatch ../../scripts/beta_group_significance.csh 
+
+#make the filtered metadata file
+
+cat sample-metadata.tsv_substrate_exp_group.txt | grep "substrates" | grep -v "T0" >> sample-metadata_biomass_exp_group_SS_FINAL.txt
+
+#Copy and edit with new metadata file and prefixes
+
+cp ../../config_files/filter_and_ANCOM_generic.config .
+
+#Run the script
+
+sbatch ../../scripts/filter_and_ANCOM_generic.csh ./filter_and_ANCOM_generic.config

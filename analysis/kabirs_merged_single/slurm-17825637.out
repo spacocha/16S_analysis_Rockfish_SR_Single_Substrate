@@ -3,3 +3,42 @@ Starting moving picture tutorial analysis
 Mon Mar  2 16:18:55 EST 2026
 Starting alignment and tree
 Mon Mar  2 16:18:55 EST 2026
+Saved FeatureData[AlignedSequence] to: cleaned_grouped_MPA_aligned-rep-seqs.qza
+Saved FeatureData[AlignedSequence] to: cleaned_grouped_MPA_masked-aligned-rep-seqs.qza
+Saved Phylogeny[Unrooted] to: cleaned_grouped_MPA_unrooted-tree.qza
+Saved Phylogeny[Rooted] to: cleaned_grouped_MPA_rooted-tree.qza
+Starting alpha diversity
+Mon Mar  2 18:12:50 EST 2026
+Saved FeatureTable[Frequency] to: cleaned_grouped_MPA_core-metrics-results/rarefied_table.qza
+Saved SampleData[AlphaDiversity] to: cleaned_grouped_MPA_core-metrics-results/faith_pd_vector.qza
+Saved SampleData[AlphaDiversity] to: cleaned_grouped_MPA_core-metrics-results/observed_features_vector.qza
+Saved SampleData[AlphaDiversity] to: cleaned_grouped_MPA_core-metrics-results/shannon_vector.qza
+Saved SampleData[AlphaDiversity] to: cleaned_grouped_MPA_core-metrics-results/evenness_vector.qza
+Saved DistanceMatrix to: cleaned_grouped_MPA_core-metrics-results/unweighted_unifrac_distance_matrix.qza
+Saved DistanceMatrix to: cleaned_grouped_MPA_core-metrics-results/weighted_unifrac_distance_matrix.qza
+Saved DistanceMatrix to: cleaned_grouped_MPA_core-metrics-results/jaccard_distance_matrix.qza
+Saved DistanceMatrix to: cleaned_grouped_MPA_core-metrics-results/bray_curtis_distance_matrix.qza
+Saved PCoAResults to: cleaned_grouped_MPA_core-metrics-results/unweighted_unifrac_pcoa_results.qza
+Saved PCoAResults to: cleaned_grouped_MPA_core-metrics-results/weighted_unifrac_pcoa_results.qza
+Saved PCoAResults to: cleaned_grouped_MPA_core-metrics-results/jaccard_pcoa_results.qza
+Saved PCoAResults to: cleaned_grouped_MPA_core-metrics-results/bray_curtis_pcoa_results.qza
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/unweighted_unifrac_emperor.qzv
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/weighted_unifrac_emperor.qzv
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/jaccard_emperor.qzv
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/bray_curtis_emperor.qzv
+Starting alpha diversity significance
+Mon Mar  2 18:13:16 EST 2026
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/faith-pd-group-significance.qzv
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/evenness-group-significance.qzv
+Beta diversity
+Mon Mar  2 18:13:35 EST 2026
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/weighted-unifrac-emperor.qzv
+Saved Visualization to: cleaned_grouped_MPA_core-metrics-results/bray-curtis-emperor-days.qzv
+Alpha rarefaction
+Mon Mar  2 18:13:53 EST 2026
+Saved Visualization to: cleaned_grouped_MPA_alpha-rarefaction.qzv
+Starting taxonomic analysis
+Mon Mar  2 18:16:30 EST 2026
+Saved Visualization to: cleaned_grouped_MPA_taxonomy_barplots.qzv
+End of script
+Mon Mar  2 18:16:58 EST 2026
